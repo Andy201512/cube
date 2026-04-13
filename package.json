@@ -1,0 +1,16 @@
+{
+  "name": "cube",
+  "version": "1.0.0",
+  "description": "一个3D魔方建模",
+  "keywords": [
+    "cube",
+    "three.js"
+  ],
+  "license": "ISC",
+  "author": "jiamin",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
